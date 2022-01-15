@@ -1,1 +1,9 @@
-sdf
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>Olga</name>
+  <firstname>Dygai</firstname>
+  <patronymic>Aleksandrovna</patronymic>
+  <age>28</age>
+  <pet>1</pet>
+  <favoritesalary>150</favoritesalary>
+</root>
