@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+  <Project>Приют для животных</Project>
+  <Issue_Type>Bug</Issue_Type>
+  <ID>BG1</ID>
+  <Summary>На странице Питомцы в поле Возраст можно ввести отрицательное значение</Summary>
+  <Precondition>1) Открыть сайт http://130.193.37.179/app/pets</Precondition>
+  <STR>1) Нажать на поле Возраст 2) Ввести значение -2</STR>
+  <Actual_result>В поле Возраст отобразилось значение -2</Actual_result>
+  <Expected_Result>Значение - невозможно ввести в поле Возраст</Expected_Result>
+  <Priority>Major</Priority>
+  <Environment>Windows 10 Google Chrome Version 88.0.4324.190</Environment>
+</bug_report>
